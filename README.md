@@ -1,4 +1,4 @@
-#Ionic Forget Password Firebase#
+# Ionic Forget Password Firebase
 
 Copy this system to your Ionic_Project/src/pages
 
